@@ -1,0 +1,21 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column background-color="#ff0000">
+        <mj-text font-size="32px" color="#ffffff" align="center"> Matteo </mj-text>
+      </mj-column>
+      <mj-column background-color="#0000ff">
+        <mj-text font-size="32px" align="center" color="#ffffff">Paoli</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+      	<mj-text>
+        	<p>Hello</p>
+          <p>I'm Matteo Paoli and this is my first email created with MJML.</p>
+          <p>Hoping this is going to make my life easier when it comes to creating responsive emails! &#128512;</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
