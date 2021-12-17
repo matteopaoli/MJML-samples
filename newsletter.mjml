@@ -1,0 +1,80 @@
+<mjml html lang="en">
+  <mj-head>
+    <mj-preview>Experience Bangkok's Nightlife</mj-preview>
+    <mj-title>You could win a trip to Bangkok!</mj-title>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500" />
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Arial, sans-serif" />
+      <mj-text align="center" color="#212121" font-weight="300" font-size="14px" line-height="20px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="608px">
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="500">NOMAD TRAVEL TIPS</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://via.placeholder.com/608x200/333333">
+      <mj-column>
+        <mj-text color="#fff" font-size="48px" line-height="48px">
+          Experience Bangkok's Nightlife
+        </mj-text>
+        <mj-button border-radius="8px" background-color="#212121" href="#">
+          FIND OUT IF YOU COULD WIN!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="22px">You could win a trip to Bangkok!</mj-text>
+        <mj-text>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          Etiam blandit sed nibh id fermentum. Proin volutpat nibh nec 
+          vulputate sodales. Suspendisse potenti. Donec at velit ac lacus 
+          imperdiet blandit. Phasellus sed sem pharetra, feugiat sapien in, 
+          volutpat tellus. Vestibulum laoreet fermentum turpis. Pellentesque 
+          et gravida orci. Curabitur non justo quis ipsum semper pharetra 
+          id vel justo. Aliquam vestibulum ante ac elit ornare elementum nec
+          et neque. Vestibulum mattis elit libero, vel rhoncus eros elementum
+          eget. Integer sodales nisl a nulla porttitor, id interdum libero
+          molestie. Nunc accumsan nunc nec augue lobortis imperdiet. Donec
+          ultricies lacus enim. Aenean odio libero, tincidunt.
+        </mj-text>
+        <mj-button border-radius="8px" background-color="#d50000" href="#">
+          BECOME A PATRON TODAY
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f6f6f6" border-radius="8px">
+      <mj-column>
+        <mj-image 
+          src="https://via.placeholder.com/200x150"
+          alt="Tokyo skyline"
+          border-radius="8px"
+          width="200px"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px">Bangkok Travel Tips</mj-text>
+        <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam blandit sed nibh id fermentum. Proin volutpat nibh nec vulputate sodales. Suspendisse potenti. Donec at velit ac lacus imperdiet blandit. </mj-text>
+        <mj-text><a href="#" style="color: #212121">Read our Bangkok travel guide</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" line-height="20px">
+          Nomad Travel Tips
+          <br />
+          86 South Street, West London, W16 7KA
+          <br />
+          You're receving this email because you subscribed to the NTT
+          monthly newsletter.
+          <br />
+          If you'd prefer not to receive updates, you can
+          <a href="#" style="color: #212121">unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
